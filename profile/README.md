@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/laskco-banner.svg" alt="LASKCO" width="100%">
+  <img src="https://raw.githubusercontent.com/Laskco/.github/main/profile/assets/laskco-banner.svg" alt="LASKCO" width="100%">
 </p>
 
 ---
