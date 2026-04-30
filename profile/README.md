@@ -5,13 +5,6 @@
 ---
 
 ```text
-$ whoami
-
-i make things for the small annoyances that somehow survive
-in big software: missing media buttons, players that hate TV
-remotes, settings that won't explain themselves, trackers
-that should be more fun than a spreadsheet.
-
 most projects start with one question:
 
     > why is this not already a button?
@@ -38,16 +31,6 @@ A browser extension that adds clickable fast-forward and rewind buttons to YouTu
 A retro Pokémon shiny-hunting tracker. Encounters, odds, timers, history — in a UI that feels like a little machine, not homework.
 
 → [`Laskco/Shiny-Tracker`](https://github.com/Laskco/Shiny-Tracker)
-
-## Build Taste
-
-```text
-remote-first TV controls
-clear release notes
-settings that tell the truth
-media tooling that respects weird edge cases
-retro UI when it fits, restraint when it doesn't
-```
 
 ## Support
 
