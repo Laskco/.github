@@ -34,6 +34,8 @@ A retro Pokémon shiny-hunting tracker. Encounters, odds, timers, history — in
 ## Support
 
 <p>
+  <a href="https://ko-fi.com/laskco"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi"></a>
+  &nbsp;
   <a href="https://buymeacoffee.com/laskco"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=050d06" alt="Buy Me a Coffee"></a>
   &nbsp;
   <a href="https://www.paypal.com/donate/?hosted_button_id=R87TNQANCT8KN"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal"></a>
