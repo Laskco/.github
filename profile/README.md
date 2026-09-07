@@ -4,30 +4,24 @@
 
 ---
 
-```text
-most projects start with one question:
-    > why is this not already a button?
-...and end up with a little more taste than strictly necessary.
-```
-
-## The Shelf
+## Projects
 
 ### mpvNova
 
-An Android TV-first mpv fork — custom player UI, decoder modes, audio shaping, subtitle controls, and updates pulled from GitHub releases. Built so a media player can actually feel good from the couch.
+An Android TV-focused mpv fork with a customizable player UI, decoder modes, audio controls, subtitle styling, and updates from GitHub releases.
 
 [![mpvNova on GitHub](https://img.shields.io/badge/mpvNova-7ef089?style=for-the-badge&logo=github&logoColor=050d06)](https://github.com/Laskco/mpvNova)
 [![Latest release](https://img.shields.io/github/v/release/Laskco/mpvNova?style=for-the-badge&logo=android&logoColor=050d06&label=release&labelColor=050d06&color=7ef089)](https://github.com/Laskco/mpvNova/releases)
 
 ### YouTube Fast Forward & Rewind
 
-A browser extension that adds clickable fast-forward and rewind buttons to YouTube. For when timeline jumps shouldn't be a guessing game.
+A browser extension that adds clickable fast-forward and rewind buttons to YouTube.
 
 [![YouTube FF/RW on GitHub](https://img.shields.io/badge/YouTube_FF_%26_Rewind-7ef089?style=for-the-badge&logo=github&logoColor=050d06)](https://github.com/Laskco/YouTube-Fast-Forward-and-Rewind)
 
 ### Shiny Tracker
 
-A retro Pokémon shiny-hunting tracker. Encounters, odds, timers, history — in a UI that feels like a little machine, not homework.
+A Pokémon shiny-hunting tracker with encounter counts, odds, timers, and hunt history.
 
 [![Shiny Tracker on GitHub](https://img.shields.io/badge/Shiny_Tracker-7ef089?style=for-the-badge&logo=github&logoColor=050d06)](https://github.com/Laskco/Shiny-Tracker)
 
